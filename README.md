@@ -1,5 +1,7 @@
 # feed_finder
 
+(Forked from the original [feedfinder](https://github.com/marcjoha/feed_finder), which hasn't been updated in a while.)
+
 Extracts RSS/Atom feed links from a website.
 
 Supports both explicit feeds in `<link>` tags, or links mentioned in the `<body>`.
