@@ -1,4 +1,4 @@
-import 'package:feed_finder/feed_finder.dart';
+import 'package:feed_finder/feed_finder_v2.dart';
 
 main() async {
   var urls = [
